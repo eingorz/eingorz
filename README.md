@@ -1,5 +1,11 @@
-### Hi there 👋
-
+# EIN
+## Who am I?
+Hi, I'm ein, a young IT student from the Czech Republic interested in Cybersecurity, Networking and Programming.
+## What do I know?
+- Programming Languages
+ - C, Python
+- Other skills
+ - Linux, Basics in networking (CCNA ITN), Simple Web development (HTML, CSS and PHP)
 <!--
 **eingorz/eingorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
