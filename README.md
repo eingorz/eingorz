@@ -1,4 +1,4 @@
-# EIN
+<h1 style="align-items: center"> EIN</h1>
 ## Who am I?
 Hi, I'm ein, a young IT student from the Czech Republic interested in Cybersecurity, Networking and Programming.
 ## What do I know?
