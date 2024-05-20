@@ -1,22 +1,8 @@
-<h1 style="align-items: center"> EIN</h1>
-## Who am I?
-Hi, I'm ein, a young IT student from the Czech Republic interested in Cybersecurity, Networking and Programming.
-## What do I know?
-- Programming Languages
- - C, Python
-- Other skills
- - Linux, Basics in networking (CCNA ITN), Simple Web development (HTML, CSS and PHP)
-<!--
-**eingorz/eingorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# EIN 🦝
 
-Here are some ideas to get you started:
+**`An IT student interested in Cybersecurity, Networking and Programming!`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student of Computer Science in the Czech Republic. My interests lie in Cybersecurity, Networking, Programming and also Graphic Design.
+
+My skills include programming in C and Python; Powerusage of Windows & Linux; Sadly WebDeving (I would rather never touch PHP again); Basic Networking; Advanced usage of Photoshop
+
