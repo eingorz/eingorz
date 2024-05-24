@@ -1,4 +1,4 @@
-# EIN 🦝
+# EIN
 
 **`An IT student interested in Cybersecurity, Networking and Programming!`**
 
