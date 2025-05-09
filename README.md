@@ -1,7 +1,6 @@
 - cyberinsecurity enjoyer
 - BUTTPLUG IO WITH [wiiiv :3](https://github.com/veef77) AND [dančaaaaa](https://github.com/notdanatall) :33 <33
-- dominant top :3
-- genderbending 
+- genderbending top
 - fuck microsoft :3
 - heavily neurospicy 
 - Python, C, Lua, OstraJava, English, meowing >//<
