@@ -1,4 +1,4 @@
-## einzy
+## Smažený Ježíš
 - cyberinsecurity enjoyer
 - fuck microsoft :3
 - student/otrok na prestižní škole čar a kouzel
