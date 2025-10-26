@@ -5,5 +5,5 @@
 - rudimentary knowledge of C, Java, Python, Lua, PHP and JS
 - decent at configuring Cisco devices (CCNA)
 - idk mf i possess a bunch of random IT skills, i aint listing all of them lol
-- Beginner in gamedev (Unreal)
+- Beginner in gamedev (Unreal/Godot)
 - And those green boxes at the bottom dont mean shit, github is a crappy platform 
