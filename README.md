@@ -6,4 +6,3 @@
 - decent at configuring Cisco devices (CCNA)
 - idk mf i possess a bunch of random IT skills, i aint listing all of them lol
 - Beginner in gamedev (Unreal)
-- I don't use github, my code makes money
