@@ -3,6 +3,8 @@
 - cyberinsecurity enjoyer
 - fuck microsoft :3
 - student/otrok na prestižní škole čar a kouzel
-- rudimentary knowledge of C, Java, Python, PHP and JS
+- Experienced with Vagrant and somewhat with Docker
+- knowledge and experience of C, Java, Python, PHP and JS
 - decent at configuring Cisco devices (CCNA)
 - Beginner in gamedev (Unreal, Godot)
+- Can also make mobile apps for Android 
