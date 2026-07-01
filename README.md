@@ -7,4 +7,4 @@
 - knowledge and experience of C, Java, Python, PHP and JS
 - decent at configuring Cisco devices (CCNA)
 - Beginner in gamedev (Unreal, Godot)
-- Can also make mobile apps for Android 
+- basic experience in android app development
