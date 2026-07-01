@@ -1,4 +1,4 @@
-## Smažený Ježíš
+## Ježíš
 - An Empl*id at [MTA](https://m-ta.cz/) & [Haxagon](https://haxagon.cz/)
 - cyberinsecurity enjoyer
 - fuck microsoft :3
