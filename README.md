@@ -1,7 +1,7 @@
 ## Ježíš
-- An Empl*id at [MTA](https://m-ta.cz/) & [Haxagon](https://haxagon.cz/)
+- Employed at [MTA](https://m-ta.cz/) & [Haxagon](https://haxagon.cz/)
 - cyberinsecurity enjoyer
-- fuck microsoft :3
+- not a big fan of microsoft
 - former student/otrok na prestižní škole čar a kouzel
 - current student at VŠB
 - Experienced with Vagrant and Docker
