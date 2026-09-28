@@ -7,5 +7,5 @@
 - Experienced with Vagrant and Docker
 - knowledge and experience of C, Java, Python, PHP and JS
 - decent at configuring Cisco devices (CCNA)
-- Beginner in gamedev (Unreal, Godot)
+- [Hobbyist gamedev](https://eingorz.itch.io/) (Unreal, Godot)
 - basic experience in android app development
