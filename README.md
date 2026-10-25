@@ -2,7 +2,6 @@
 - Employed at [MTA](https://m-ta.cz/) & [Haxagon](https://haxagon.cz/)
 - cyberinsecurity enjoyer
 - not a big fan of microsoft
-- former student/otrok na prestižní škole čar a kouzel
 - current student at VŠB
 - Experienced with Vagrant and Docker
 - knowledge and experience of C, Java, Python, PHP and JS
