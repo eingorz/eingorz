@@ -8,3 +8,5 @@
 - decent at configuring Cisco devices (CCNA)
 - [Hobbyist gamedev](https://eingorz.itch.io/) (Unreal, Godot)
 - basic experience in android app development
+
+![TryHackMe Badge](./assets/thm_propic.png)
