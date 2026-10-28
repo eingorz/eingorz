@@ -9,4 +9,4 @@
 - [Hobbyist gamedev](https://eingorz.itch.io/) (Unreal, Godot)
 - basic experience in android app development
 
-![TryHackMe Badge]([./assets/thm_propic.png](https://tryhackme.com/badge/t/93549082ceb38a7483b46ceed36aa302531a26e6573b35a2a03fa6007b6c597411bb41b781b36b6c770867d858db6388/embed?theme=dark))
+![TryHackMe Badge]([https://tryhackme.com/badge/t/93549082ceb38a7483b46ceed36aa302531a26e6573b35a2a03fa6007b6c597411bb41b781b36b6c770867d858db6388/embed?theme=dark])
