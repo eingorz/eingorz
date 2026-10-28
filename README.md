@@ -9,4 +9,4 @@
 - [Hobbyist gamedev](https://eingorz.itch.io/) (Unreal, Godot)
 - basic experience in android app development
 
-<img src="https://cdn-images.tryhackme.com/public-profile/Ajn/badge-dark-d81b0dc865db.png" alt="Ajn's TryHackMe badge." width="400">
+<img src="https://cdn-images.tryhackme.com/public-profile/Ajn/badge-dark-7c02cfe8afc5.png" alt="Ajn's TryHackMe badge." width="400">
