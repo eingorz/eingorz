@@ -1,10 +1,10 @@
 ## Ježíš
 - Employed at [MTA](https://m-ta.cz/) & [Haxagon](https://haxagon.cz/)
-- cyberinsecurity enjoyer
-- not a big fan of microsoft
 - current student at VŠB
+- cyberinsecurity enjoyer
+- osama /bin linux
+- knowledge and experience of C, Java, Python, PHP and JS (though i have the relationship to JS which werner herzog has to french)
 - Experienced with Vagrant and Docker
-- knowledge and experience of C, Java, Python, PHP and JS
 - decent at configuring Cisco devices (CCNA)
 - [Hobbyist gamedev](https://eingorz.itch.io/) (Unreal, Godot)
 - basic experience in android app development
